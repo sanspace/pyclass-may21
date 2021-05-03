@@ -30,10 +30,12 @@ Feel free to checkout these materials if you have time.
 
 ## Practice
 
-  - Python Environment
+  - Python Environment. If you have trouble in your local machine, try online sites like https://replit.com/
   - Code Editor / IDE (personal preferene)
   - Github account and repo (this is where you'll push following programs)
     - Needless to say, no personal/company (empID, project etc.) data on Github.
+    - If you need help with git and github, try this: https://towardsdatascience.com/getting-started-with-git-github-6235f5ae3a0b
+    - Try to have a github repo up for the assignments and have day wise folders similar to this repo.
   - Programs
     - Given a string `python`, try printing `cython` using slicing `[start:stop]` and concatenation. `+`
     - Given any file python file (like `something.py`) use slicing to
